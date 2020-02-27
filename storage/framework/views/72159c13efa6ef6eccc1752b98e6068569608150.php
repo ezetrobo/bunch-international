@@ -1,0 +1,1 @@
+<?php /**PATH D:\SITIOS PHP\bunch\resources\views/layouts/menu.blade.php ENDPATH**/ ?>

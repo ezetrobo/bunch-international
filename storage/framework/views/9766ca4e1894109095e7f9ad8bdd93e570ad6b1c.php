@@ -1,0 +1,1 @@
+<?php /**PATH D:\SITIOS PHP\laravel-maqueta\resources\views/layouts/menu.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<?php /**PATH C:\xamppOK\htdocs\bunch-landing\resources\views/layouts/menu.blade.php ENDPATH**/ ?>
